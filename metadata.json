@@ -1,0 +1,6 @@
+{
+  "name": "Gada Electronics",
+  "description": "Full-stack Flipkart-inspired e-commerce web application for Gada Electronics with dynamic product catalog, interactive cart, coupon discounts, order checkout, real-time tracking, and reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
